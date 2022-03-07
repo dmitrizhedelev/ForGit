@@ -2,6 +2,7 @@ fun main(args: Array<String>) {
     println("Hello World!")
     println("some text")
     print("last change in master")
+    print("last change in master2")
 
     // 11
     // 22
