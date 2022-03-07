@@ -5,6 +5,7 @@ fun main(args: Array<String>) {
     print("last change in master2")
     print("last change in master3")
     print("last change in master4")
+    print("last change in master5")
 
     // 11
     // 22
