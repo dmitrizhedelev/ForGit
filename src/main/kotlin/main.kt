@@ -8,4 +8,8 @@ fun main() {
     fun f() {
         return
     }
+
+    fun f1() {
+        return
+    }
 }
