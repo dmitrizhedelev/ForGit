@@ -6,6 +6,6 @@ fun main() {
     // add last change
     // add last change 2
     fun f() {
-        return
+
     }
 }
