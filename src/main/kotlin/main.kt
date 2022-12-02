@@ -8,8 +8,4 @@ fun main() {
     fun f() {
 
     }
-
-    fun f1() {
-        return
-    }
 }
